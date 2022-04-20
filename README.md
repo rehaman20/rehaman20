@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rehaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/abdul-rehaman-671206237/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Rehaman-green)]
+[![Website Badge](https://img.shields.io/badge/WebSite-Rehaman-green)](www.rehaman.com)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rehaman-yellow)](https://stackoverflow.com/users/18763216/rehaman)
 
 I'm
