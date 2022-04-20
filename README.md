@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rehaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/abdul-rehaman-671206237/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Rehaman-green)](www.rehaman.com)
+[![Website Badge](https://img.shields.io/badge/WebSite-Rehaman-green)](https://github.com/rehaman20)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rehaman-yellow)](https://stackoverflow.com/users/18763216/rehaman)
 
 I'm
@@ -28,14 +28,13 @@ Languages and Tools:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
-
+- 🔭 I’m currently a student and passionaate in Current Technology
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on Software Development
+- 🤔 I’m looking for help with Full Stack
+- 💬 Ask me about what choices i made to have GOOD Influences in My Life😂
+- 📫 How to reach me: rehamanrehaman798@gmail.com
+- 😄 Pronouns: rEH (HE in reverse😁)
+- ⚡ Fun fact: Technology is Evil!
 -->
 
